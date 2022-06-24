@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a cloud infrastructure engineer. Linux 🐧 enthusiast, aspiring kernel 🍿 hacker, and guitarist 🎸. Self-proclaimed philosopher & a studious being. 
+
+I occasionally blog about DevOps, SRE and stuff I find intresting! you can find it here [obanby.com](obanby.com/blog)!
+
