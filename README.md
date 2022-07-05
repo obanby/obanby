@@ -1,6 +1,6 @@
 # Welcome to Obanby kernal 🍿 
 <br>
-<a href="obanby.dev/blog">
+<a href="https://obanby.dev/blog">
   <img src="https://img.shields.io/static/v1?label=&message=Blog&color=orange&style=for-the-badge&logo=book"/>
 </a>
 <a href="https://twitter.com/omarelbanby">
