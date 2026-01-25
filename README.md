@@ -11,10 +11,7 @@
 </a>
 
 ## About
-I am a platform engineer. I primarily work on building large-scale infrastructures. I am passionate about software and system design and ❤️ automating large-scale systems! I always question everything and challenge the current status quo to accomplish better results.
+I design and build systems from first principles, focusing on correctness, clarity, and long-term evolvability. I’m interested in distributed systems, platform foundations, and tooling that reduces complexity rather than hiding it. I care deeply about form: clear boundaries, explicit behaviour, and systems that are easy to reason about under change and load.
 
-
-## 🔭 Aspiration 
-
-My aspirations are building large-scale infrastructure toolings, breaking into kernel hacking and leading large teams toward essentialism. 
+Much of my work explores how intentional abstractions and explicit feedback create systems that are safer to evolve and easier to learn from at scale.
 
